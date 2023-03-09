@@ -80,11 +80,6 @@ Achhe din aa gaye
 
 # Creators
 Ideas and Contributions for alpha version implemented by <br/>
-* Vishal Panjeta [@VPanjeta](https://vpanjeta.github.io) <br/>
-* Tilak S Naik [@TilakSN](https://github.com/TilakSN) <br/>
-* Shishira R Maiya [@abhyantrika](https://github.com/abhyantrika) <br/>
-
-Web UI over flask service implemented by <br/>
-* Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
+* Vishal Panjeta [@Tanmay-Tiwaricyber](https://github.com/Tanmay-Tiwaricyber) <br/>
 
 * You are welcome if you feel the need to contribute. Just clone the repo and send a pull request!
