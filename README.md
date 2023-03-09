@@ -1,6 +1,6 @@
 # ModiScript
 Acche din aa gaye  
-Try the script in the [ModiScript web UI](https://modiscript.netlify.com/)  
+ 
 
 ## Vision
 A Programming language is a wonderful medium of communication between man and machine. Many such languages are created, keeping in mind the comfort of the programmer. Such languages fulfill the computational needs of the world and serve their purpose. Somewhere in the midst of all this, the “fun” side of programming is lost. <br/>
